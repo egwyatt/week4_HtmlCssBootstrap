@@ -1,0 +1,45 @@
+body
+    {
+        background-color: bisque;
+        color:rgb(93, 9, 172);
+        font-size: xx-large; 
+        font-style: oblique;
+ 
+    }
+p1, p2, p3, p4
+    {
+        font-size: 100%
+        color: rgb(223, 65, 96);
+    }
+
+a:visited 
+    {
+        color:rgb(61, 231, 152)
+    }
+a:hover
+    {
+        color: greenyellow;
+        font-size: 150%;
+    }
+    #brown 
+    {
+        background-color: rgb(8, 8, 8);
+    }
+p1,p2,p3,p4
+{background-color: black;}
+
+
+
+.red { 
+    font-size: 300%;
+    .red::first-letter {font-size: 400%;}
+     }
+
+p:first-letter {font-size: 200%;}
+
+
+.red:first-letter {font-size: 300%}
+
+
+
+    
