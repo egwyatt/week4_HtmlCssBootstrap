@@ -1,0 +1,24 @@
+
+
+
+body{background-color: #eb9b9b;
+
+
+.video{color: rgb(132, 70, 168);
+font-size: 25px;
+text-align: center;
+font-family: cursive;
+font-weight: bold;}
+
+.bear{color: rgb(209, 32, 171);
+font-size: 25px;
+background-color: aqua;
+border-radius: 20px;
+padding: 20px;}
+
+.bear1{color: rgb(209, 32, 171);
+    font-size: 25px;
+    background-color: rgb(30, 204, 73);
+    border-radius: 20px;
+    padding: 20px;}
+    

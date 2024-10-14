@@ -1,0 +1,75 @@
+.p1 {border-radius: 20px;
+
+  background-color:#CCC;
+
+  text-align: center;
+
+  font-family: cursive;
+
+}
+
+
+
+.p2 {
+
+  background-color: #555;
+
+  color: white;
+
+  text-align: left;        /* Align the text to the left */
+
+  padding: 15px;           /* Add padding for spacing */
+
+  border-radius: 10px;      /* Add rounded corners */
+
+  width: 50%;              /* Set the width to half the screen */
+
+  margin: 10px 0;          /* Add vertical margin for spacing */
+
+}
+
+  
+
+#rcorners1 {text-align: right;
+
+  border-radius: 25px;
+
+  background: #73AD21;
+
+  padding: 40px;
+
+  width: 400px;
+
+  height: 200px;
+
+  border-radius: 100px;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.PP3 {
+
+  display: flex;
+
+  justify-content: center; 
+
+  align-items: center;     
+
+}
+
+p3 {
+
+  text-align: center;
+
+  font-size: 200%;
+
+  border-radius: 25px;
+
+  background-color: aqua;
+
+  width: 300px;
+
+  padding: 20px;           
+
+}
